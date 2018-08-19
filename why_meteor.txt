@@ -1,0 +1,12 @@
+Meteor is chosen ONLY for fast prototyping.
+To do more in less time just by one developer.
+Once a prototype is built and approved by its users, if required can be moved to Python/Django/SQL.
+
+Why not continuing with Meteor after trying it again for 1 day + 1 night + half day.
+1. Setting a custom UI for login, logout, register, forgot password is non trivial.
+2. We need to read through many packages source code to make changes in ui customization the way we want
+3. This knowledge is difficult to transfer to somebody else. and not easier to convince them to study this much of libraries and guides.
+4. We know that we need to do redo the whole application again.
+5. More time is spent to find a hack to solve an issue.
+6. Community has shrunken. Big contributors have moved to non Meteor solutions.
+7. Its advertised in a way that shows it can do prototyping very quickly. But I found its not that quick. Rather slower than what I can do in Django.
